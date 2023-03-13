@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import NewsItem from "./NewsItem";
+import Spinner from "./Spinner";
 
 export class News extends Component {
   constructor() {
@@ -13,28 +14,30 @@ export class News extends Component {
   }
   async componentDidMount() {
     console.log("componentDidMount");
-    let url =
-      "https://newsapi.org/v2/top-headlines?country=us&apiKey=90be0cc1fdfa4e6584bc9961cbd6c68e&page=1";
+    let url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=90be0cc1fdfa4e6584bc9961cbd6c68e&page=1&pageSize=${this.props.pageSize}`;
+    this.setState({ loading: true });
     let data = await fetch(url);
     let parseData = await data.json();
     console.log(parseData);
     this.setState({
       articles: parseData.articles,
       totalResults: parseData.totalResults,
+      loading: false,
     });
   }
   handleNextClick = async () => {
     console.log("Next");
-    if (this.state.page + 1 > Math.ceil(this.state.totalResults / 8)) {
-    } else {
+    if (!(this.state.page + 1 > Math.ceil(this.state.totalResults / 8))) {
       let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=90be0cc1fdfa4e6584bc9961cbd6c68e&page=${
         this.state.page + 1
-      }&pageSize=20`;
+      }&pageSize=${this.props.pageSize}`;
+      this.setState({ loading: true });
       let data = await fetch(url);
       let parseData = await data.json();
       this.setState({
         page: this.state.page + 1,
         articles: parseData.articles,
+        loading: false,
       });
     }
   };
@@ -42,12 +45,14 @@ export class News extends Component {
     console.log("Prev");
     let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=90be0cc1fdfa4e6584bc9961cbd6c68e&page=${
       this.state.page - 1
-    }&pageSize=20`;
+    }&pageSize=${this.props.pageSize}`;
+    this.setState({ loading: true });
     let data = await fetch(url);
     let parseData = await data.json();
     this.setState({
       page: this.state.page - 1,
       articles: parseData.articles,
+      loading: false,
     });
   };
 
@@ -55,20 +60,22 @@ export class News extends Component {
     console.log("render");
     return (
       <div className="container my-4">
+        {this.state.loading && <Spinner />}
         <h2>News - Top Headlines</h2>
         <div className="row">
-          {this.state.articles.map((ele) => {
-            return (
-              <div className="col-md-3" key={ele.url}>
-                <NewsItem
-                  title={ele.title ? ele.title : ""}
-                  description={ele.description ? ele.description : ""}
-                  imgUrl={ele.urlToImage}
-                  newsUrl={ele.url}
-                />
-              </div>
-            );
-          })}
+          {!this.state.loading &&
+            this.state.articles.map((ele) => {
+              return (
+                <div className="col-md-3" key={ele.url}>
+                  <NewsItem
+                    title={ele.title ? ele.title : ""}
+                    description={ele.description ? ele.description : ""}
+                    imgUrl={ele.urlToImage}
+                    newsUrl={ele.url}
+                  />
+                </div>
+              );
+            })}
         </div>
         <div className="container d-flex justify-content-evenly">
           <button
@@ -80,6 +87,10 @@ export class News extends Component {
             Previous Page
           </button>
           <button
+            disabled={
+              this.state.page + 1 >
+              Math.ceil(this.state.totalResults / this.props.pageSize)
+            }
             type="button"
             onClick={this.handleNextClick}
             className="btn btn-danger"
