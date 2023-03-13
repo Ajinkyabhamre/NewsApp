@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Dan Murphy",
+            "title": "Saudi oil giant Aramco posts record $161.1 billion profit for 2022 - CNBC",
+            "description": "Saudi state-controlled Aramco achieved a record profit last year, boosted by higher energy prices and firmer sale volumes.",
+            "url": "https://www.cnbc.com/2023/03/12/saudi-oil-giant-aramco-posts-record-161point1-billion-profit-for-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107207062-1678523853046-gettyimages-1246001622-RAFAPRESS_04012023-04303.jpeg?v=1678607166&w=1920&h=1080",
+            "publishedAt": "2023-03-12T07:46:06Z",
+            "content": "The Aramco logo is displayed on a smartphone screen.\r\nSaudi Arabia's state-controlled oil giant Aramco on Sunday reported a record net income of $161.1 billion for 2022 the largest annual profit ever… [+3618 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ben Terris",
+            "title": "Pence says 'history will hold Donald Trump accountable' for Jan. 6th - The Washington Post",
+            "description": "‘Make no mistake about it, what happened that day was a disgrace,’ the former vice president said at Washington’s annual Gridiron Dinner",
+            "url": "https://www.washingtonpost.com/lifestyle/2023/03/11/pence-says-history-will-hold-donald-trump-accountable-jan-6th/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DPNVYTEMDXPJQ236QXCC3OF22Y_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-03-12T06:30:00Z",
+            "content": "Comment on this story\r\nIn a speech Saturday night, former vice president Mike Pence delivered what amounted to his strongest rebuke of Donald Trump, criticizing the former president for his role in t… [+1733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arizona Desert Swarm"
+            },
+            "author": "Brian J. Pedersen",
+            "title": "Arizona men’s basketball vs. UCLA final score: Courtney Ramey’s 3 gives Wildcats second straight Pac-12 title… - Arizona Desert Swarm",
+            "description": "And yet another revenge victory for the Wildcats",
+            "url": "https://www.azdesertswarm.com/basketball/2023/3/11/23636035/arizona-wildcats-mens-basketball-ucla-bruins-recap-pac12-tournament-championship-vegas-2023",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BHBPA5ftoUFhxHI8U02BkCyFxVQ=/0x34:3195x1707/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24498470/usa_today_20210455.jpg",
+            "publishedAt": "2023-03-12T06:08:20Z",
+            "content": "LAS VEGASThe revenge tour is complete.\r\nCourtney Ramey drained the go-ahead 3-pointer with 16.8 seconds left to give Arizona its second straight Pac-12 title, beating top-seeded UCLA 61-59 on Saturda… [+4107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Cyclone Freddy: Winds and rain lash Mozambique as storm arrives - BBC",
+            "description": "Freddy, which has caused at least 28 deaths over a month, has hit mainland Africa for a second time.",
+            "url": "https://www.bbc.com/news/world-africa-64928093",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FCB7/production/_128959646_mozepa.jpg",
+            "publishedAt": "2023-03-12T05:37:33Z",
+            "content": "Mozambique is being lashed by rain, powerful winds and flooding as Cyclone Freddy makes landfall for the second time in a month. \r\nThe southern African nation has received more than a year's worth of… [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joshua Franklin, George Hammond, Antoine Gara, Tabby Kinder",
+            "title": "Silicon Valley Bank: the spectacular unravelling of the tech industry's banker - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/b556badb-8e98-42fa-b88e-6e7e0ca758b8",
+            "urlToImage": null,
+            "publishedAt": "2023-03-12T05:00:09Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Peter Van Sant",
+            "title": "Stephanie Fernandes explains her stained clothes while in police custody for stabbing of fiancé Andrew Wagner: \"This is Andrew's blood\" - CBS News",
+            "description": "Stephanie Fernandes says she had no choice but to defend herself the night her fiancé Andrew Wagner died from a fatal knife wound to his neck in their Worcester, Massachusetts, home.",
+            "url": "https://www.cbsnews.com/news/stephanie-fernandes-worcester-police-custody-andrew-wagner-stabbing-death-48-hours/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/09/eb480718-f6b6-4060-bf96-ae85c41c8b74/thumbnail/1200x630/c3a1dc3d083cc183de53c6ede743a40c/wagner-03.jpg",
+            "publishedAt": "2023-03-12T04:36:00Z",
+            "content": "In the predawn hours of May 8, 2014, Stephanie Fernandes was desperate to learn from police what had happened to her fiancé, Andrew \"Andy\" Wagner.\r\nSTEPHANIE FERNANDES (crying):I — I don't know what'… [+36410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
+            },
+            "author": "Ben Steele",
+            "title": "Marquette beat Xavier 65-51 in Big East tournament final - Milwaukee Journal Sentinel",
+            "description": "Tyler Kolek had 20 points and David Joplin added 12 off the bench to lead the top-seeded Golden Eagles to their first ever tournament title.",
+            "url": "https://www.jsonline.com/story/sports/college/marquette/2023/03/11/marquette-vs-xavier-basketball-game-score-big-east-tournament-championship-fox-live-stream-odds/69996006007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/12/PMJS/59e6304f-b296-49b9-99f8-1b8d0b7ab929-GAN_20230311_hmb_tu6_239.jpg?crop=2737,1540,x0,y182&width=2737&height=1540&format=pjpg&auto=webp",
+            "publishedAt": "2023-03-12T04:18:45Z",
+            "content": "NEW YORK Outside, the façade of Madison Square Garden and the top of the Empire State Building were lit up in blue and gold.\r\nInside the Worlds Most Famous Arena, in a scene soundtracked by Frank Sin… [+8453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Chicago"
+            },
+            "author": "NBC 5 Staff",
+            "title": "Daylight Saving Time Begins Sunday. When to Set Your Clock Forward, How to Prepare and More - NBC Chicago",
+            "description": "Most Americans, including Illinois residents, will shift their clocks ahead by an hour this weekend, signaling warmer temperatures and brighter days ahead.",
+            "url": "https://www.nbcchicago.com/news/local/daylight-saving-time-sunday-spring-forward-time-change/3092341/",
+            "urlToImage": "https://media.nbcchicago.com/2023/03/tlmd-cambio-hora-reloj-shutterstock_1078581419-copy.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-03-12T03:53:14Z",
+            "content": "Most Americans, including Illinois residents, will shift their clocks ahead by an hour this weekend, signaling warmer temperatures and brighter days ahead. \r\nThe official time change will take place … [+16046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": null,
+            "title": "NASA's SpaceX Crew-5 Splash Down Near Florida Coast, Safe on Earth - NASA",
+            "description": "After splashing down safely in their Dragon spacecraft off the coast of Tampa, Florida, on Saturday, NASA’s SpaceX Crew-5 completed the agency’s fifth commercial crew rotation mission to the International Space Station. The international crew of four spent 15…",
+            "url": "https://www.nasa.gov/press-release/nasa-s-spacex-crew-5-splash-down-near-florida-coast-safe-on-earth",
+            "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/52740946542_4ec3e31cfa_o.jpeg",
+            "publishedAt": "2023-03-12T03:38:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "BBC mutiny escalates as stars rally behind Gary Lineker - DW (English)",
+            "description": "Some TV presenters refused to work in a show of solidarity with a colleague who was suspended after criticizing Britain's new migration policy. The walkout forced the UK broadcaster to cancel most of its soccer coverage.",
+            "url": "https://www.dw.com/en/bbc-mutiny-escalates-as-stars-rally-behind-gary-lineker/a-64957960",
+            "urlToImage": "https://static.dw.com/image/64958000_6.jpg",
+            "publishedAt": "2023-03-12T03:07:29Z",
+            "content": "The BBC was under pressure Saturday to reinstate its highest-paid presenter Gary Lineker, who was suspended for criticizing the country's new migration policy.\r\nThe decision by Britain's main public … [+4712 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kathleen Magramo",
+            "title": "City with world's most expensive housing asks: what to do with 40,000 empty quarantine units? - CNN",
+            "description": "Behind the gleaming skyscrapers and multimillion-dollar homes that have made this city the world's most expensive property market lies a far less attractive parallel reality: one of the world's seemingly most intractable housing crises.",
+            "url": "https://www.cnn.com/2023/03/11/asia/hong-kong-pennys-bay-quarantine-housing-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230308145457-06-hong-kong-housing-crisis-quarantine-units.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-12T03:04:00Z",
+            "content": "Behind the gleaming skyscrapers and multimillion-dollar homes that have made this city the worlds most expensive property market lies a far less attractive parallel reality: one of the worlds seeming… [+9893 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Julia Shapero",
+            "title": "Meta looking into new social platform that could rival Twitter - The Hill",
+            "description": "Meta, Facebook’s parent company, is looking into a new social media platform that could potentially rival Twitter, as the company remains in turmoil under CEO Elon Musk’s leadership. “We’re exploring a standalone decentralized social network for sharing text …",
+            "url": "https://thehill.com/policy/technology/3895736-meta-looking-into-new-social-platform-that-could-rival-twitter/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/05202652a67540b4ab97accc5e67e36b-e1678587710223.jpg?w=1280",
+            "publishedAt": "2023-03-12T02:29:00Z",
+            "content": "Skip to content\r\nMeta, Facebook’s parent company, is looking into a new social media platform that could potentially rival Twitter, as the company remains in turmoil under CEO Elon Musk’s leadership.… [+1391 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Mikaela Shiffrin sets World Cup skiing record with 87th win - CBS News",
+            "description": "Shiffrin broke a tie with Ingemar Stenmark on the all-time overall winners list between men and women.",
+            "url": "https://www.cbsnews.com/news/mikaela-shiffrin-sets-world-cup-skiing-record-with-87th-win/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/11/61d5c1b8-03ee-4c7f-b861-909a5ef7d954/thumbnail/1200x630/72be6a4ac0877609ef4a68adf7465471/ap23070485855164.jpg",
+            "publishedAt": "2023-03-12T02:28:00Z",
+            "content": "American skier Mikaela Shiffrin set the outright World Cup record for most career victories with 87 by winning a slalom Saturday.\r\nShiffrin broke a tie with Ingemar Stenmark on the all-time overall w… [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Muyao Shen and Yueqi Yang",
+            "title": "Crypto Exhales as USDC Stablecoin Rebounds Toward Peg After Being Roiled by SVB Exposure - Yahoo Finance",
+            "description": "(Bloomberg) -- Crypto’s second-largest stablecoin rebounded toward its intended $1 dollar peg as issuer Circle Internet Financial Ltd. pledged to cover any...",
+            "url": "https://finance.yahoo.com/news/crypto-shaken-svb-exposure-depegs-135921373.html",
+            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/f373770df77d60bdcaf491274a38770b",
+            "publishedAt": "2023-03-12T02:27:00Z",
+            "content": "(Bloomberg) -- Cryptos second-largest stablecoin rebounded toward its intended $1 dollar peg as issuer Circle Internet Financial Ltd. pledged to cover any shortfall in $3.3 billion of reverses held a… [+4946 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine, Russia say hundreds of enemy troops killed in battle for Bakhmut - Reuters",
+            "description": "Ukraine and Russia claimed on Saturday that hundreds of enemy troops were killed over the previous 24 hours in the fight for Bakhmut, with Kyiv fending off unabating attacks and a small river that bisects the town now marking the new front line.",
+            "url": "https://www.reuters.com/world/europe/ukraine-russia-suffered-more-than-500-killed-wounded-one-day-bakhmut-2023-03-11/",
+            "urlToImage": "https://www.reuters.com/resizer/KoG7tLGm2GPgJ_xmn2LJsugECiI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UH7IBHM3JFL43B2HZU26YLCISI.jpg",
+            "publishedAt": "2023-03-12T02:13:00Z",
+            "content": "March 11 (Reuters) - Ukraine and Russia claimed on Saturday that hundreds of enemy troops were killed over the previous 24 hours in the fight for Bakhmut, with Kyiv fending off unabating attacks and … [+2450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Danielle Directo-Meston",
+            "title": "How to Watch the 2023 Oscars Online Without Cable - Hollywood Reporter",
+            "description": "Hollywood's biggest night takes place Sunday at the Dolby Theatre in Los Angeles — here's how to stream it live without cable.",
+            "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/watch-stream-oscars-2023-online-1235347727/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/oscars-95th-set-up-PUBLICITY-MAIN-2023.jpg?w=1024",
+            "publishedAt": "2023-03-12T02:00:50Z",
+            "content": "After returning with a trio of emcees last year, the 95th Oscars will be once again hosted by Jimmy Kimmel. The 2023 Academy Awards will air live on ABC Sunday, March 12, at 5 p.m. PT/8 p.m. ET.\r\nThi… [+5177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Mona Khalifeh, Miguel A. Melendez, &",
+            "title": "Tom Schwartz Addresses Tom Sandoval-Raquel Leviss Affair - Entertainment Tonight",
+            "description": "Schwartz's statement comes just days after news of Sandoval's alleged affair with Leviss broke.",
+            "url": "https://www.etonline.com/tom-schwartz-addresses-tom-sandoval-raquel-leviss-affair-200535",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/GettyImages-1244001407%20%281%29.jpg?h=c673cd1c&itok=6Y_8iTnn",
+            "publishedAt": "2023-03-12T00:02:32Z",
+            "content": "Tom Schwartz is breaking his silence amid allegations of a months-long affair between his best friend and business partner, Tom Sandoval and Vanderpump Rules co-star, Raquel Leviss.\r\nSchwartz, who th… [+4999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Israel sees one of its biggest-ever protests - BBC",
+            "description": "At one of Saturday's rallies, opposition leader Yair Lapid said this was Israel's \"greatest crisis\".",
+            "url": "https://www.bbc.com/news/world-middle-east-64929563",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1731E/production/_128960059_mediaitem128960055.jpg",
+            "publishedAt": "2023-03-11T23:06:29Z",
+            "content": "Hundreds of thousands of Israelis have rallied against government plans to overhaul the judicial system, in what organisers say are the biggest street protests in the country's history.\r\nPrime Minist… [+2946 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brenda Goodman",
+            "title": "Most men with prostate cancer can avoid or delay harsh treatments, long-term study confirms - CNN",
+            "description": "Most men who are diagnosed with prostate cancer can delay or avoid harsh treatments without harming their chances of survival, according to new results from a long-running study in the United Kingdom.",
+            "url": "https://www.cnn.com/2023/03/11/health/prostate-cancer-surveillance-survival/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220906175540-cancer-prostate-hombres-cirugia-robotica-efectos-secundarios-eeuu-vls-ramos-00012919.png?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-11T23:02:00Z",
+            "content": "Most men who are diagnosed with prostate cancer can delay or avoid harsh treatments without harming their chances of survival, according to new results from a long-running study in the United Kingdom… [+9343 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Ellen Ioanes",
+            "title": "The UK’s extreme new immigration plans, explained - Vox.com",
+            "description": "Tory plans to stop channel crossings may be more politics than practical.",
+            "url": "https://www.vox.com/2023/3/11/23634575/uk-immigration-bill-braverman-sunak-boats-channel",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/GjrKXwNxhsMp79WYe8jNHRFpZMI=/0x289:4032x2400/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24497043/1247861623.jpg",
+            "publishedAt": "2023-03-11T22:43:00Z",
+            "content": "Facing an increase in migration across the English Channel, the UK agreed to fund additional policing and new migrant detention center in northern France on Friday, to the tune of $576 million over t… [+9901 chars]"
+        }
+    ]
+}
