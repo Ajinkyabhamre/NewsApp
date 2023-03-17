@@ -12,18 +12,6 @@ export default class App extends Component {
           <Routes>
             <Route
               exact
-              path="/Home"
-              element={
-                <News
-                  key="Home"
-                  pageSize={8}
-                  country={"in"}
-                  category={"general"}
-                />
-              }
-            />
-            <Route
-              exact
               path="/"
               element={
                 <News
